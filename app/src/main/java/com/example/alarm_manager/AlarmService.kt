@@ -12,8 +12,5 @@ class AlarmService : Service(){
     }
 
 
-    override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
-        Log.d("alarm manager app", "alarm Received")
-    }
 
 }
