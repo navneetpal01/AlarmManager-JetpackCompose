@@ -12,4 +12,5 @@ class AlarmReceiver : BroadcastReceiver(){
         Log.d("alarm manager app", "alarm Received")
     }
 
+
 }
